@@ -7,3 +7,5 @@ Werkzeug
 Jinja2
 itsdangerous
 MarkupSafe
+pickle
+flask
